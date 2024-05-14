@@ -13,7 +13,7 @@ chromadb
 faiss-cpu
 wikipedia
 arxiv 
-
+langchain
 
 
 
